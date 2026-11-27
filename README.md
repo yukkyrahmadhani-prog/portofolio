@@ -13,5 +13,5 @@ Website ini tampil rapi di ponsel, tablet, dan laptop.
 - CSS3 (Flexbox dan media query)
 - Git dan GitHub
 ## Tautan
-- Website: menyusul setelah *deploy* ke Vercel
+- Website: https://portofolio-Yukky Rahmadhani.vercel.app
 - Dibuat oleh: Yukky Rahmadhani, SMKN 2 Singosari
